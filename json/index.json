@@ -1223,7 +1223,7 @@
             "name": "Собираем образы для яркого лета",
             "description": "",
             "poster": "228.jpg",
-            "isActive": true,
+            "isActive": false,
             "isEnded": true,
             "views": 4190,
             "likes": 333,
