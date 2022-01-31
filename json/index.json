@@ -223,7 +223,7 @@
             "name": "Подбираем идеальные образы для зимы со стилистом",
             "description": "",
             "poster": "544.jpg",
-            "isActive": false,
+            "isActive": true,
             "isEnded": true,
             "views": 9849,
             "likes": 204,
